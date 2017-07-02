@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark",
+  "version": "0.1.0",
+  "description": "Example Project from Web Development with Node and Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chrinkus/meadowlark.git"
+  },
+  "author": "Chris Schick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chrinkus/meadowlark/issues"
+  },
+  "homepage": "https://github.com/Chrinkus/meadowlark#readme"
+}
